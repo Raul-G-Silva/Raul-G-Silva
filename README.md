@@ -12,5 +12,23 @@ $ skills --infrastructure
 
 $ skills --code
 > Python (Automation/Scapy), PowerShell, JavaScript
-🛠️ Tech Stack & Tools
-<div align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PowerShell-5391FE%3Fstyle%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" /> </div>
+---
+
+<div align="center">
+
+  <h4>🛠️ Tech Stack & Tools</h4>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <h4>📊 GitHub Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ral-G-SilvaI&show_icons=true&theme=radical&hide_border=true" />
+
+</div>
